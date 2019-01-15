@@ -20,6 +20,7 @@ https://sir-meee.github.io/Pig-Dice/
 * Css
 * Javascript
 * Jquery
+* Bootstrap
 ## Support and contact details
  If u have any question u can contact me on:
 
