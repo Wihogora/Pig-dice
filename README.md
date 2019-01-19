@@ -6,7 +6,7 @@ Wihogora Wivine
 This is a pig dice program
 
 ## Link to site
-https://sir-meee.github.io/Pig-Dice/
+https://wihogora.github.io/Pig-dice/
 
 ## BDD
  Specification: JavaScript Quiz
